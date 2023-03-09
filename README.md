@@ -39,11 +39,11 @@ first name in csv file will be renamed to first file in directory
 
 # How to compile
 
-go build rename.go
+```go build rename.go``` or ```go build -o rename.exe rename.go```
 
 # How to run
 
-rename.exe <complete path to csv file> <complete path to the directory containing the pdfs>
+```rename.exe <complete path to csv file> <complete path to the directory containing the pdfs>```
 
 example usage: rename.exe c:\temp\newnames.csv c:\temp\pdfs
 
