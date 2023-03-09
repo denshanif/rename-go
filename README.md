@@ -18,22 +18,22 @@
 ## Example
 
 ### Example csv file:
-new name 1
-new name 2
-new name 3
+new name 1    
+new name 2    
+new name 3    
 
 ### Example directory:
 c:\temp\pdfs
 
 ### Example directory contents:
-old name 1.pdf
-old name 2.pdf
-old name 3.pdf
+old name 1.pdf    
+old name 2.pdf    
+old name 3.pdf    
 
 ### Example directory contents after running program:
-new name 1.pdf
-new name 2.pdf
-new name 3.pdf
+new name 1.pdf    
+new name 2.pdf    
+new name 3.pdf    
 
 first name in csv file will be renamed to first file in directory
 
